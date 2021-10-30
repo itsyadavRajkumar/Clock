@@ -1,2 +1,3 @@
 Hello, This Is My First Web Project
 This Is a clock.
+it used technology HTML, CSS, JS
